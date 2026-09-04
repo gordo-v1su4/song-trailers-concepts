@@ -1,6 +1,5 @@
 # Playlist titles
 
-Extracted from the Playlists view screenshot. **Untitled** / **Untitled Playlist** cards omitted.
 
 | # | Title |
 |---|--------|
@@ -48,7 +47,7 @@ Extracted from the Playlists view screenshot. **Untitled** / **Untitled Playlist
 | 42 | You're In Love |
 | 43 | Take Off |
 | 44 | Takin' On The Floor |
-| 45 | You're My Forever (C… |
+| 45 | You're My Forever |
 | 46 | Forever (Our Love Will… |
 | 47 | Rainy Night Dance |
 | 48 | Under The Sun |
@@ -57,16 +56,16 @@ Extracted from the Playlists view screenshot. **Untitled** / **Untitled Playlist
 | 51 | Driving Fast (In A Tesla) |
 | 52 | At Night It's Hard On… |
 | 53 | Trinity From Baltimore |
-| 54 | Alive (Break Of Th… |
+| 54 | Alive (Break Of The Beat) |
 | 55 | Standin' My Ground |
 | 56 | Something I Could Fe… |
 | 57 | Took A Chance On You |
-| 58 | Best of Me (Heartbre… |
+| 58 | Best of Me (Heartbreaker) |
 | 59 | Lost In You |
 | 60 | Deep Inside |
 | 61 | Love Me For Life |
 | 62 | Drown In This River |
 | 63 | Taking The Night |
 | 64 | Love Whispering Out |
-| 65 | Making It Hot (Guarac… |
-| 66 | Miss Jones EP [Colo… |
+| 65 | Making It Hot |
+| 66 | Miss Jones EP |
